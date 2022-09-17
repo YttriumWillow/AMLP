@@ -1,0 +1,27 @@
+Copyright Yttrium Co, Ltd(然而并没有)
+
+本文件是 YttriumWillow(或称 Yttrium_leyu) 收集整理的 Minecraft 的各种启动器的 发布包
+英文名： All of Minecraft Launchers Pack，简称 AMLP
+
+如果你想加入本项目，你可以：
+加入 AMLP 在 Github 上的项目：github link...
+关注我的 Bilibili 账号并私信我：Yttrium_leyu   https://space.bilibili.com/1942856375
+发送请求邮件到我的 EMail：maleyu20210117@126.com
+加我 QQ：2579291262
+
+非正常启动端(解压密码请看说明文档).zip 的解压密码：114514
+
+文件名的中括号内说明了该启动器的名称和运行系统环境
+
+对于有"启动器"字样的，如 "[Badlion PvP Client 安装包] Badlion Client Setup 3.11.0.exe"
+说明这是一个安装包，请双击安装后使用
+
+对于有"安装器"字样的，如 "[LabyMod 安装器] LabyMod3_Installer.jar"
+说明这是一个 Java 环境下的安装器，必须先安装 Java 环境，再使用 Java 运行它 或 点击同目录下类似于 "安装 Labymod.bat" 的批处理脚本
+
+对于有"for macOS"字样的，如 "[官方启动器 for macOS] Minecraft.dmg"
+说明这个应用是专供macOS(苹果电脑)运行的，请苹果电脑用户下载使用
+注：Badlion、Lunar、GDL 支持macOS，但是我咕咕咕了。。。
+
+对于有"压缩包"字样的，如 "[MultiMC 压缩包] mmc-stable-win32.zip"
+说明这个应用是打包成压缩包格式发布的，请解压后再使用
